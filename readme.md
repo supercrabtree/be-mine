@@ -1,5 +1,10 @@
 # Be mine.... GitHub
 
+`Roses are red,`  
+`Violets are blue,`  
+`git commit -vp`  
+`git push -u`
+
 See who's been getting lucky this valentines day!!
 
 ###### From this
