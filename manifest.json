@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Be Mine",
+  "description": "Show your true love this valentines...",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["be-mine.js"]
+    }
+  ],
+  "permissions": [
+    "https://github.com/"
+  ],
+  "icons": { 
+    "16": "be-mine-icon-16.png",
+    "48": "be-mine-icon-48.png",
+    "128": "be-mine-icon-128.png"
+  }
+}
