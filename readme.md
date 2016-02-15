@@ -1,8 +1,6 @@
-![](https://raw.githubusercontent.com/supercrabtree/be-mine/master/be-mine-icon-48.png "#nofun")
+![](https://raw.githubusercontent.com/supercrabtree/be-mine/master/be-mine-icon-48.png "#bemine")
 
 # Be mine.... GitHub
-
-Show your true love this valentines day!
 
 `Roses are red,`  
 `Violets are blue,`  
