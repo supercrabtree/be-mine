@@ -6,6 +6,6 @@ if (valentinesDayRect) {
   var fill = valentinesDayRect.getAttribute('fill');
 
   if (fill != '#eeeeee') {
-    valentinesDayRect.setAttribute('fill', '#ec272a');
+    valentinesDayRect.setAttribute('fill', '#de4343');
   }
 }
